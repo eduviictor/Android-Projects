@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/compartilhar"
+        android:icon="@drawable/share"
+        android:title="@string/menu_compartilhar"
+        app:showAsAction="always" />
+    <item android:id="@+id/discar"
+        android:icon="@drawable/call"
+        android:title="@string/menu_discar"
+        app:showAsAction="always" />
+    <item android:id="@+id/informacoes"
+        android:icon="@drawable/info"
+        android:title="@string/menu_informacoes"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/site"
+        android:icon="@drawable/site"
+        android:title="@string/menu_site"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/sobre"
+        android:icon="@drawable/about"
+        android:title="@string/menu_sobre"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/sair"
+        android:icon="@drawable/exit"
+        android:title="@string/menu_sair"
+        app:showAsAction="never" />
+</menu>

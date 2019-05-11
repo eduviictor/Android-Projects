@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SamuApp</string>
+    <string name="menu_compartilhar">Compartilhar</string>
+    <string name="menu_discar">Ligar</string>
+    <string name="menu_informacoes">Informações</string>
+    <string name="menu_site">Abrir Site</string>
+    <string name="menu_sobre">Sobre</string>
+    <string name="menu_sair">Sair</string>
+    <string name="mensagem_info">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget diam laoreet, tempor risus id, scelerisque massa.</string>
+    <string name="sobre">O Serviço de Atendimento Móvel de Urgência (SAMU 192) tem como objetivo chegar precocemente à vítima após ter ocorrido alguma situação de urgência ou emergência que possa levar a sofrimento, a sequelas ou mesmo à morte. São urgências situações de natureza clínica, cirúrgica, traumática, obstétrica, pediátrica, psiquiátrica, entre outras.\nO Ministério da Saúde vem concentrando esforços no sentido de implementar a Política Nacional de Atenção às Urgências, da qual o SAMU 192 é componente fundamental. Tal Política prioriza os princípios do SUS, com ênfase na construção de redes de atenção integral às urgências regionalizadas e hierarquizadas que permitam a organização da atenção, com o objetivo de garantir a universalidade do acesso, a equidade na alocação de recursos e a integralidade na atenção prestada.\n</string>
+    <string name="contato">Contato</string>
+    <string name="historico">Histórico</string>
+    <string name="viaturas">Viaturas</string>
+    <string name="title_activity_historico">Historico</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="titulo1_historico">Apresentação</string>
+    <string name="conteudo1_historico">O Serviço de Atendimento Móvel de Urgência (SAMU 192) é um serviço de atendimento médico brasileiro, utilizado em casos de emergência. Foi idealizado na França, em 1986 como Service d\'Aide Médicale d\'Urgence — que faz uso da mesma sigla "SAMU" — e é considerado por especialistas como o melhor do mundo.</string>
+    <string name="titulo2_historico">Histórico</string>
+    <string name="conteudo2_historico">O primeiro SAMU implantado no Brasil foi na cidade de Campinas, através do médico coordenador José Roberto Hansen. O Serviço de Atendimento Móvel de Urgência (Samu) atendeu, no ano de 2005, um total de 64.131 ocorrências; divididas em 21.722 com envio de ambulância do Samu e 42.409 com triagem médica para envio de transporte.\nO Ministério da Saúde lançou, em 2003, a Política Nacional de Urgência e Emergência com o intuito de estruturar e organizar a rede de urgência e emergência no país. Desde a publicação da portaria que instituiu essa política, o objetivo foi o de integrar a atenção às urgências. Hoje a atenção primária é constituída pelas unidades básicas de saúde e Equipes de Saúde da Família, enquanto o nível intermediário de atenção fica a encargo do SAMU 192 (Serviço de Atendimento Móvel as Urgência), das Unidades de Pronto Atendimento (UPA 24H), e o atendimento de média e alta complexidade é feito nos hospitais.\nO Samu, serviço administrado pela Prefeitura, por meio da Secretaria Municipal de Saúde, tem parceria com o Ministério da Saúde. O serviço pode ser acionado pelo telefone 192 e atende a três objetivos: atendimento para casos clínicos, a regulação do sistema de vagas de urgência e emergência em hospitais secundários e terciários por uma central 24h e educação em urgência e emergência.</string>
+    <string name="titulo1_info">Regras</string>
+    <string name="conteudo1_info">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget diam laoreet, tempor risus id, scelerisque massa. Sed ut nisl rutrum, egestas est id, placerat turpis. Pellentesque rutrum purus vitae felis commodo volutpat.</string>
+    <string name="titulo2_info">Dados para chamar</string>
+    <string name="conteudo2_info">*Em caso de acidente verifique a quantidade de vítimas, o estado de consciência delas e se alguma delas está presa ás ferragens;
+\n* Ligue para o 192 e siga as orientações do Médico Regulador;
+\n* Sinalize as vias com galhos de arvore e triângulo de sinalização;
+\n* Em caso de acidente com motos: não toque nas vítimas, não retire o capacete;
+\n* Não dê água aos acidentados.</string>
+    <string name="endereco">RN-288 - Conj. Res. Samanau, Caicó - RN, 59300-000</string>
+    <string name="email">samu@gmail.com</string>
+    <string name="site">http://portalms.saude.gov.br</string>
+    <string name="veiculo1">* USB: A Unidade de Suporte Básico é tripulada por um condutor-socorrista e por um técnico de enfermagem, essa viatura atende aos casos de menor complexibilidade e equipada com equipamentos básicos de suporte à vida. </string>
+    <string name="veiculo2">* USA:  A Unidade de Suporte Avançado, é tripulada por um condutor-socorrista, um enfermeiro e um médico, é considerada uma UTI Móvel, capaz de atender casos mais graves como os procedimentos invasivos, tais como: intubação, drenagem torácica, partos, doenças cardiovasculares graves, infartos e arritmias. É equipada com aparelhos de alta tecnologia como: Respirador mecânico, cardio versores, bomba de infusão de seringa, detector fetal, monitorização de oximetria e imobilizações para vítimas presas em ferragens, além de uma ampla classe de medicamentos.
+</string>
+</resources>
